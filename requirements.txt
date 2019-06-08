@@ -74,7 +74,7 @@ six=1.11.0=py27_1
 sqlite=3.24.0=h2f33b56_1
 tk=8.6.8=ha92aebf_0
 twisted=18.7.0=py27h14c3975_1
-urllib3=1.23=py27_0
+urllib3=1.25=py27_0
 w3lib=1.19.0=py27_0
 wheel=0.31.1=py27_0
 xz=5.2.4=h470a237_1
